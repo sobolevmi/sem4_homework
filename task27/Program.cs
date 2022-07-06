@@ -1,4 +1,5 @@
-﻿/* Console.WriteLine ("Введите число: ");
+﻿// Вычисление суммы цифр введенного числа
+/* Console.WriteLine ("Введите число: ");
 int number = Convert.ToInt32 (Console.ReadLine ());
 
 int sum (int num)
@@ -13,9 +14,9 @@ int sum (int num)
     return summa;
 }
 
-Console.WriteLine ($"{number} {"->"} {sum (number)}"); */  
+Console.WriteLine ($"{number} {"->"} {sum (number)}"); */
 
-Console.WriteLine ("Введите число: ");
+/* Console.WriteLine ("Введите число: ");
 int number = Convert.ToInt32 (Console.ReadLine ());
 
 int degree (int number)
@@ -52,4 +53,4 @@ int summa (int [] array)
 }
 
 int [] result = massive ();
-Console.WriteLine (summa (result));
+Console.WriteLine (summa (result)); */
