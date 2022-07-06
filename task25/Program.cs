@@ -1,4 +1,5 @@
-﻿Console.Write ("Введите число: ");
+﻿// Программа по возведению числа в степень
+Console.Write ("Введите число: ");
 int number = Convert.ToInt32 (Console.ReadLine ());
 Console.Write ("Введите степень, в которую нужно возвести число: ");
 int n = Convert.ToInt32 (Console.ReadLine ());
